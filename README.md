@@ -1,2 +1,5 @@
-# oddSimond.github.io
-## This is the ip of the svn server :10.254.84.252
+# Simond's major works @ jufe:
++CourserBot & it's gui.
++to be continued.
+
+###Send a email to i@aboutsimond.me for co-operations.
