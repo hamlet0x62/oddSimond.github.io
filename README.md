@@ -1,5 +1,5 @@
 # Simond's major works @ jufe:
 + CourserBot & it's gui.
-+ to be continued.
++ to be continued..
 
-### Send a email to i@aboutsimond.me for co-operations.
+### Send an email to i@aboutsimond.me for co-operations.
